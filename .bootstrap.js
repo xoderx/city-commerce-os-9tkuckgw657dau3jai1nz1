@@ -8,7 +8,7 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-const PROJECT_NAME = "city-commerce-os-9tkuckgw657dau3jai1nz";
+const PROJECT_NAME = "city-commerce-os-9tkuckgw657dau3jai1nz1";
 const BOOTSTRAP_MARKER = '.bootstrap-complete';
 
 // Check if already bootstrapped
